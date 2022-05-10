@@ -5,7 +5,8 @@ order: 4
 ---
 - ### Hello 👋, I'm Yuheng!
 
-  - 🏫  _MSCS@Vandy | Alumni of UAlberta_.
+  - 🏫  _MSCS@Vandy_.
+  - 🏫  _Alumni of UAlberta_.
   - 💻  I work on Python / MySQL.
 
 
