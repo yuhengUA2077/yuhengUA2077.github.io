@@ -23,6 +23,7 @@ image:
 ### 三级标题
 
 这里可以放`//代码`片段噢～
+$O(n)$
 ```python
 //代码片段
 print("hello world")
