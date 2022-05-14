@@ -23,11 +23,9 @@ image:
 ### 三级标题
 
 这里可以放代码片段噢～
-```c++
+```python
 //代码片段
-int main(){
-  hello world;
-}
+print("hello world")
 ```
 
 ![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
