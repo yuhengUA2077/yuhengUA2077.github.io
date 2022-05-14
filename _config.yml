@@ -21,9 +21,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 施愉恒                         # the main title
+title: Yuheng Shi                         # the main title
 
-tagline: GitHub Pages   # it will display as the sub-title
+tagline:    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
