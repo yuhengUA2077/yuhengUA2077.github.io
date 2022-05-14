@@ -1,6 +1,6 @@
 ---
 title: 二分查找 Binary Search（更新中）
-date: 2022-05-14 17:30:00 -0500
+date: 2022-05-14 19:30:00 -0500
 categories: [学习笔记]
 tags: [Python]
 pin: false
