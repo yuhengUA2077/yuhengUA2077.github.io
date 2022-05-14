@@ -9,7 +9,7 @@ author: Yuheng Shi
 toc: true
 comments: true
 typora-root-url: ../../yuhengua2077.github.io
-math: false
+math: true
 mermaid: true
 
 image:
