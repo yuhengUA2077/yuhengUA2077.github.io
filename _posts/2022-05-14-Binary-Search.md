@@ -1,6 +1,6 @@
 ---
 title: 二分查找 Binary Search（更新中）
-date: 2022-05-14 19:30:00 -0500
+date: 2022-05-14 19:00:00 -0500
 categories: [学习笔记]
 tags: [Python]
 pin: false
@@ -16,7 +16,7 @@ mermaid: true
 
 # 前提条件
 
-* 数组一定为**有序数组**！ **sorted array**
+* 数组一定为**有序数组**！**sorted array**
 * 数组**不包含重复元素** **unique/distinct** values/elements
 
 # 步骤
