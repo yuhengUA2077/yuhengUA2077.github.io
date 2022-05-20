@@ -19,3 +19,9 @@ mermaid: true
 * 对撞指针
 * 快慢指针
 * 分离指针
+
+# 形式
+
+```python
+left, right = 0, len(nums) - 1
+```
