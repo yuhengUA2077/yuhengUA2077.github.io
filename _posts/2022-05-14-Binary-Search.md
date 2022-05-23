@@ -2,7 +2,7 @@
 title: 二分查找 Binary Search（更新中）
 date: 2022-05-14 19:00:00 -0500
 categories: [学习笔记]
-tags: [Python]
+tags: [Python, Algorithm]
 pin: false
 author: Yuheng Shi
 
