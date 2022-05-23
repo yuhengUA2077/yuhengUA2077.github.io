@@ -51,7 +51,7 @@ return something_else
 slow, fast = 0, 1
 while fast < len(nums):
 	if condition1:
-		slow += 1
+		slow += 1   # 切记切记快慢指针都是加法！！总是写成减法
 	fast += 1
 return something
 ```
