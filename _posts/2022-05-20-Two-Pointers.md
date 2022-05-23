@@ -152,6 +152,27 @@ class Solution:
         return res 
 ```
 
+**713. Subarray Product Less Than K 乘积小于K的子数组**
+
+```python
+class Solution:
+    def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
+        if k <= 1:
+            return 0
+        slow, fast = 0, 0
+        res = 0
+        window_mult = 1
+        while fast < len(nums):
+            window_mult *= nums[fast]
+            while window_mult >= k:
+                window_mult /= nums[slow]
+                slow += 1
+            # 下面这一行非常关键！！如果当前乘积小于k，那么right左边含right的所有子串乘积一定都小于k，这个数量刚好就是窗口长度
+            res += (fast - slow + 1)
+            fast += 1
+        return res
+```
+
 # 3. 分离指针
 
 分离指针是指`p1`, `p2`两个指针，分别指向不同数组/链表的第一个元素。在loop里面满足一定条件时，两个指针同时右移，满足另外一些条件时只右移`p1`指针，满足另一些条件时只右移`p2`指针，直到其中一个数组/链表遍历完成或者是满足题目的条件结束循环。
