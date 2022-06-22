@@ -1,6 +1,6 @@
 ---
 title: 链表归纳（更新中）
-date: 2022-05-27 18:37:00 -0500
+date: 2022-05-27 18:38:00 -0500
 categories: [学习笔记]
 tags: [Python, Algorithm]
 pin: false
@@ -167,3 +167,4 @@ if not curr:
 node.next = curr.next
 curr.next = node
 ```
+
