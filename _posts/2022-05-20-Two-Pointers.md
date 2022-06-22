@@ -194,3 +194,5 @@ return something
 
 * sorted数组合并，求交集、并集问题
 
+![IMG_2064](/assets/blog_res/2022-05-20-Two-Pointers.assets/IMG_2064.jpg)
+
