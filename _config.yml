@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh-CN
+lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale: Asia/Shanghai
@@ -26,7 +26,7 @@ title: Yuheng Shi                         # the main title
 tagline: Welcome to my blog！   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-    这是通过Chirpy主题配置而成的
+    Config by Chirpy
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://yuhengua2077.github.io'
@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Yuheng Shi
-  email: yuheng.shi@vanderbilt.edu             # change to your email address
+  email: yuheng.shi@uth.tmc.edu             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
