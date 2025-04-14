@@ -26,7 +26,7 @@
   url:  'https://www.researchgate.net/profile/Yuheng-Shi-2'                  # Fill with your mastodon account page
 -
   type: google-scholar
-  icon: 'fab fa-google-scholar'
+  icon: "assets/google-scholar-brands.svg"
   url:  'https://scholar.google.com/citations?user=wbY71C8AAAAJ&hl=en&inst=10220790398908802146'                  # Fill with your stackoverflow homepage
 # -
 #   type: stack-overflow
