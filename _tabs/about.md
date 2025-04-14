@@ -13,4 +13,4 @@ order: 4
     - Clinical Informatics
 
 🔗 Read More
-[Google Scholar](https://scholar.google.com/citations?user=wbY71C8AAAAJ&hl=en&inst=10220790398908802146) • [ResearchGate](https://www.researchgate.net/profile/Yuheng-Shi-2) • [GitHub](https://github.com/yuhengUA2077) • [LinkedIn](https://www.linkedin.com/in/yuheng-shi)
+- [Google Scholar](https://scholar.google.com/citations?user=wbY71C8AAAAJ&hl=en&inst=10220790398908802146) • [ResearchGate](https://www.researchgate.net/profile/Yuheng-Shi-2) • [GitHub](https://github.com/yuhengUA2077) • [LinkedIn](https://www.linkedin.com/in/yuheng-shi)
