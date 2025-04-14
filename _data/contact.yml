@@ -22,11 +22,11 @@
   url:  'https://www.linkedin.com/in/yuheng-shi/'                  # Fill with your Linkedin homepage
 -
   type: researchgate
-  icon: 'fa-brands fa-researchgate'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-researchgate'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.researchgate.net/profile/Yuheng-Shi-2'                  # Fill with your mastodon account page
 -
   type: google-scholar
-  icon: 'fa-brands fa-google-scholar'
+  icon: 'fab fa-google-scholar'
   url:  'https://scholar.google.com/citations?user=wbY71C8AAAAJ&hl=en&inst=10220790398908802146'                  # Fill with your stackoverflow homepage
 # -
 #   type: stack-overflow
